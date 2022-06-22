@@ -1,0 +1,1 @@
+### Simple program that takes a string as input, replaces each character with it's corresponding index in the alphabet, then separates each index with '$'. 🔐
